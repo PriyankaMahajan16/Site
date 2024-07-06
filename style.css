@@ -1,0 +1,10 @@
+*{
+    text-align: center;
+}
+
+
+h1 {
+    color: rgb(93, 68, 233);
+    text-shadow: 1px 1px;
+    font-family: Monospace;
+  }
